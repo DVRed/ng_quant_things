@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#files
+TFM_2022_07_15.pdf
+TFO_2022_07_15.pdf
