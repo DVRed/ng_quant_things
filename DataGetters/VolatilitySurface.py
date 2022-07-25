@@ -4,7 +4,6 @@ from sqlalchemy import create_engine
 from datetime import datetime
 import scipy as sp
 import numpy as np
-import pdb
 
 class IceVolat:
 

@@ -2,7 +2,7 @@ import pandas as pd
 from py_vollib_vectorized import vectorized_black_scholes_merton as vbsm
 from py_vollib_vectorized import greeks
 import numpy as np
-from Models.get_data_from_DB.get_vol_surface import IceVolat
+from DataGetters.VolatilitySurface import IceVolat
 from sqlalchemy import create_engine
 
 
